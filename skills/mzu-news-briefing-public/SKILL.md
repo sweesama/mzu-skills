@@ -1,5 +1,5 @@
 ---
-name: mzu-news-briefing
+name: mzu-news-briefing-public
 description: "Multi-source AI/Tech news aggregator with intelligent daily briefings. Covers AI, technology, finance, and world events — with hot/cold ranking and source attribution. Supports Twitter/X (bird CLI) or Grok API."
 version: 1.1.4
 tags:
