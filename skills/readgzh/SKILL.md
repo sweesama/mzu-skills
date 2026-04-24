@@ -1,3 +1,8 @@
+---
+name: readgzh
+description: "微信公众号文章 AI 阅读器，99.89% 穿透率，节省 50-87% Token"
+---
+
 # ReadGZH — 微信公众号文章 AI 阅读器
 
 ReadGZH 是一款专为 AI 智能体设计的微信公众号内容解析工具。它通过服务端代理绕过微信的反爬虫机制，将复杂的公众号 HTML 转换为纯净、结构化的 Markdown 内容，大幅节省 Token 消耗。
